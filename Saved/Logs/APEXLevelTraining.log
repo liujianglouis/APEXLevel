@@ -2780,3 +2780,1540 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.05-09.43.14:635][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 7.67 sec)
 [2023.04.05-09.43.14:640][ 74]AssetCheck: New page: 资产保存：ArchitectureModular
 [2023.04.05-09.43.14:640][ 74]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.49.29:570][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.49.29:611][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.05-09.49.29:630][672]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.49.29:630][672]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModularA6B7EEA7441696B2C44B25BBFCACEA2A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.49.29:640][672]LogFileHelpers: Saving map 'ArchitectureModular' took 0.048
+[2023.04.05-09.49.29:655][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.76 sec)
+[2023.04.05-09.49.29:659][672]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.49.29:659][672]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.49.39:261][763]Cmd: DUPLICATE
+[2023.04.05-09.49.39:261][763]Cmd: ACTOR DUPLICATE
+[2023.04.05-09.49.43:342][185]Cmd: DELETE
+[2023.04.05-09.49.43:342][185]Cmd: ACTOR DELETE
+[2023.04.05-09.49.43:344][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-09.49.43:362][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.05-09.49.43:366][185]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.04.05-09.49.54:418][374]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.50.08:811][834]Cmd: TRANSACTION UNDO
+[2023.04.05-09.50.08:811][834]LogEditorTransaction: Undo 移动元素
+[2023.04.05-09.50.11:370][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.51.42:578][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.51.42:625][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.05-09.51.42:647][621]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.51.42:648][621]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular314FFC11459E90667A85A38A847EFDC5.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.51.42:657][621]LogFileHelpers: Saving map 'ArchitectureModular' took 0.051
+[2023.04.05-09.51.42:663][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.85 sec)
+[2023.04.05-09.51.42:671][621]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.51.42:671][621]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.54.44:272][339]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_Blue.M_PrototypeGrid_Blue
+[2023.04.05-09.54.44:273][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.54.44:428][339]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.54.47:202][639]LogSlate: Window 'M_PrototypeGrid_Blue' being destroyed
+[2023.04.05-09.54.47:208][639]LogSlate: Window 'M_PrototypeGrid_Blue' being destroyed
+[2023.04.05-09.54.47:217][639]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.54.47:217][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.54.50:420][996]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_Blue -> M_PrototypeGrid_1
+[2023.04.05-09.54.50:444][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.54.50:482][996]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_1
+[2023.04.05-09.54.50:482][996]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_11F5EB83645996639C407E69BC7FA98C3.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_1.uasset'
+[2023.04.05-09.54.50:484][996]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_Blue
+[2023.04.05-09.54.50:484][996]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_BlueC8365CEE4C9239FCF997E6BAAC6E5AFF.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_Blue.uasset'
+[2023.04.05-09.54.50:490][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 7.89 sec)
+[2023.04.05-09.54.50:497][996]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-09.54.50:497][996]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_1.M_PrototypeGrid_1
+[2023.04.05-09.54.50:497][996]LogContentValidation: Display: 正在验证/Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_PrototypeGrid_Blue.M_PrototypeGrid_Blue
+[2023.04.05-09.54.53:235][318]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_Floor -> M_PrototypeGrid_Floor
+[2023.04.05-09.54.55:770][613]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_Floor -> M_PrototypeGrid_2
+[2023.04.05-09.54.55:791][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.54.55:824][613]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_2
+[2023.04.05-09.54.55:824][613]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_2E248E0F644E94EC2CF080EB6B04AB264.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_2.uasset'
+[2023.04.05-09.54.55:825][613]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_Floor
+[2023.04.05-09.54.55:825][613]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_FloorA4B7888544C6184D6004F3B954101CCE.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_Floor.uasset'
+[2023.04.05-09.54.55:831][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 7.93 sec)
+[2023.04.05-09.54.55:835][613]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-09.54.55:835][613]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.54.55:835][613]LogContentValidation: Display: 正在验证/Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_PrototypeGrid_Floor.M_PrototypeGrid_Floor
+[2023.04.05-09.55.10:180][255]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_1.M_PrototypeGrid_1
+[2023.04.05-09.55.10:181][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.55.10:333][255]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.55.31:508][512]LogSlate: Window '取色器' being destroyed
+[2023.04.05-09.55.35:328][948]LogSlate: Window 'M_PrototypeGrid_1' being destroyed
+[2023.04.05-09.55.35:334][948]LogSlate: Window 'M_PrototypeGrid_1' being destroyed
+[2023.04.05-09.55.35:356][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.05-09.55.35:402][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-09.55.35:455][948]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.55.35:455][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.55.40:884][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.55.40:934][509]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_1
+[2023.04.05-09.55.40:935][509]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_14E3EB51F41CC3A84F7313E9BA30EAD22.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_1.uasset'
+[2023.04.05-09.55.40:940][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 7.99 sec)
+[2023.04.05-09.55.40:944][509]AssetCheck: New page: 资产保存：M_PrototypeGrid_1
+[2023.04.05-09.55.40:945][509]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_1.M_PrototypeGrid_1
+[2023.04.05-09.55.49:109][328]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_3
+[2023.04.05-09.55.49:115][328]LogContentBrowser: Creating deferred item: M_PrototypeGrid_3
+[2023.04.05-09.55.49:127][329]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_3).
+[2023.04.05-09.55.50:100][442]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_3 -> M_PrototypeGrid_3
+[2023.04.05-09.55.50:101][442]LogContentBrowser: End creating deferred item M_PrototypeGrid_3
+[2023.04.05-09.55.50:480][485]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_4
+[2023.04.05-09.55.50:485][485]LogContentBrowser: Creating deferred item: M_PrototypeGrid_4
+[2023.04.05-09.55.50:495][486]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_4).
+[2023.04.05-09.55.50:911][535]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_4 -> M_PrototypeGrid_4
+[2023.04.05-09.55.50:912][535]LogContentBrowser: End creating deferred item M_PrototypeGrid_4
+[2023.04.05-09.55.51:385][591]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_5
+[2023.04.05-09.55.51:389][591]LogContentBrowser: Creating deferred item: M_PrototypeGrid_5
+[2023.04.05-09.55.51:399][592]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_5).
+[2023.04.05-09.55.52:061][672]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_5 -> M_PrototypeGrid_5
+[2023.04.05-09.55.52:062][672]LogContentBrowser: End creating deferred item M_PrototypeGrid_5
+[2023.04.05-09.55.52:431][714]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_6
+[2023.04.05-09.55.52:436][714]LogContentBrowser: Creating deferred item: M_PrototypeGrid_6
+[2023.04.05-09.55.52:446][715]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_6).
+[2023.04.05-09.55.52:889][768]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_6 -> M_PrototypeGrid_6
+[2023.04.05-09.55.52:890][768]LogContentBrowser: End creating deferred item M_PrototypeGrid_6
+[2023.04.05-09.55.53:246][810]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_7
+[2023.04.05-09.55.53:249][810]LogContentBrowser: Creating deferred item: M_PrototypeGrid_7
+[2023.04.05-09.55.53:259][811]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_7).
+[2023.04.05-09.55.53:656][859]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_7 -> M_PrototypeGrid_7
+[2023.04.05-09.55.53:657][859]LogContentBrowser: End creating deferred item M_PrototypeGrid_7
+[2023.04.05-09.55.54:031][903]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_8
+[2023.04.05-09.55.54:035][903]LogContentBrowser: Creating deferred item: M_PrototypeGrid_8
+[2023.04.05-09.55.54:044][904]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_8).
+[2023.04.05-09.55.54:423][950]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_8 -> M_PrototypeGrid_8
+[2023.04.05-09.55.54:424][950]LogContentBrowser: End creating deferred item M_PrototypeGrid_8
+[2023.04.05-09.55.54:771][990]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_9
+[2023.04.05-09.55.54:774][990]LogContentBrowser: Creating deferred item: M_PrototypeGrid_9
+[2023.04.05-09.55.54:784][991]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_9).
+[2023.04.05-09.55.55:173][ 38]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_9 -> M_PrototypeGrid_9
+[2023.04.05-09.55.55:174][ 38]LogContentBrowser: End creating deferred item M_PrototypeGrid_9
+[2023.04.05-09.55.55:506][ 77]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_10
+[2023.04.05-09.55.55:509][ 77]LogContentBrowser: Creating deferred item: M_PrototypeGrid_10
+[2023.04.05-09.55.55:519][ 78]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_10).
+[2023.04.05-09.55.55:923][127]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_10 -> M_PrototypeGrid_10
+[2023.04.05-09.55.55:924][127]LogContentBrowser: End creating deferred item M_PrototypeGrid_10
+[2023.04.05-09.55.56:277][168]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_11
+[2023.04.05-09.55.56:281][168]LogContentBrowser: Creating deferred item: M_PrototypeGrid_11
+[2023.04.05-09.55.56:290][169]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_11).
+[2023.04.05-09.55.56:906][243]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_11 -> M_PrototypeGrid_11
+[2023.04.05-09.55.56:907][243]LogContentBrowser: End creating deferred item M_PrototypeGrid_11
+[2023.04.05-09.55.57:306][290]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_12
+[2023.04.05-09.55.57:310][290]LogContentBrowser: Creating deferred item: M_PrototypeGrid_12
+[2023.04.05-09.55.57:320][291]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_12).
+[2023.04.05-09.55.59:740][575]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_12 -> M_PrototypeGrid_12
+[2023.04.05-09.55.59:741][575]LogContentBrowser: End creating deferred item M_PrototypeGrid_12
+[2023.04.05-09.56.10:796][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.05-09.56.11:865][719]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.05-09.56.11:892][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-09.56.11:909][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-09.56.11:925][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.05-09.56.13:166][847]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.56.13:167][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.56.13:310][847]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.56.14:771][  3]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.56.14:777][  3]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.56.14:787][  3]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.56.14:787][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.56.15:684][ 93]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.56.15:685][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.56.15:830][ 93]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.56.17:748][297]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.56.17:754][297]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.56.17:785][297]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.56.17:785][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.56.22:583][786]LogWindowsTextInputMethodSystem: Activated input method: 英语(美国) - (Keyboard).
+[2023.04.05-09.56.22:583][786]LogWindowsTextInputMethodSystem: Activated input method: 英语(美国) - (Keyboard).
+[2023.04.05-09.56.24:002][931]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_2 -> M_PrototypeGrid_fool
+[2023.04.05-09.56.24:020][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.56.24:053][931]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_Floor
+[2023.04.05-09.56.24:053][931]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_Floor0B2A55B744AE0875A6CCC689015400D8.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_Floor.uasset'
+[2023.04.05-09.56.24:061][931]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_fool
+[2023.04.05-09.56.24:061][931]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_fool31E804EC431B088F6FAFE5B8691FD37F.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_fool.uasset'
+[2023.04.05-09.56.24:068][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 8.03 sec)
+[2023.04.05-09.56.24:097][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.05-09.56.24:115][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.05-09.56.24:130][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.56.24:134][931]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-09.56.24:134][931]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_fool.M_PrototypeGrid_fool
+[2023.04.05-09.56.24:134][931]LogContentValidation: Display: 正在验证/Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_PrototypeGrid_Floor.M_PrototypeGrid_Floor
+[2023.04.05-09.56.38:027][387]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_fool -> M_PrototypeGrid_fool
+[2023.04.05-09.56.38:205][408]Cmd: SELECT NONE
+[2023.04.05-09.56.45:956][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.56.45:997][272]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_fool
+[2023.04.05-09.56.45:997][272]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_foolB50B847549D558B9C5D4BF87FA46797B.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_fool.uasset'
+[2023.04.05-09.56.46:002][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 8.08 sec)
+[2023.04.05-09.56.46:007][272]AssetCheck: New page: 资产保存：M_PrototypeGrid_fool
+[2023.04.05-09.56.46:007][272]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_fool.M_PrototypeGrid_fool
+[2023.04.05-09.56.50:478][765]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_fool -> M_PrototypeGrid_fool
+[2023.04.05-09.56.50:642][785]Cmd: SELECT NONE
+[2023.04.05-09.56.58:287][616]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_fool -> M_PrototypeGrid_fool
+[2023.04.05-09.57.07:910][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.05-09.57.09:681][741]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.05-09.57.09:721][741]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LevelPrototyping/Materials/M_PrototypeGrid_fool.M_PrototypeGrid_fool
+	Asset Type: MaterialInstanceConstant
+[2023.04.05-09.57.09:936][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-09.57.09:953][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-09.57.09:969][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.57.11:724][929]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_2
+[2023.04.05-09.57.11:728][929]LogContentBrowser: Creating deferred item: M_PrototypeGrid_2
+[2023.04.05-09.57.11:738][930]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_2).
+[2023.04.05-09.57.15:400][367]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_2 -> M_PrototypeGrid_2
+[2023.04.05-09.57.15:400][367]LogContentBrowser: End creating deferred item M_PrototypeGrid_2
+[2023.04.05-09.57.15:584][389]Cmd: SELECT NONE
+[2023.04.05-09.57.21:712][ 46]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_2
+[2023.04.05-09.57.21:715][ 46]LogContentBrowser: Creating deferred item: M_PrototypeGrid_2
+[2023.04.05-09.57.21:726][ 47]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_2).
+[2023.04.05-09.57.24:490][378]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_2 -> M_PrototypeGrid_13
+[2023.04.05-09.57.24:491][378]LogContentBrowser: End creating deferred item M_PrototypeGrid_2
+[2023.04.05-09.57.25:846][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.57.25:892][532]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_13
+[2023.04.05-09.57.25:892][532]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_1370FB4EBF483D1578F003D097FC8AB08A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_13.uasset'
+[2023.04.05-09.57.25:897][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 8.13 sec)
+[2023.04.05-09.57.25:902][532]AssetCheck: New page: 资产保存：M_PrototypeGrid_13
+[2023.04.05-09.57.25:902][532]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-09.57.26:220][568]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-09.57.26:222][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.57.26:361][568]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.57.32:985][312]LogSlate: Window '取色器' being destroyed
+[2023.04.05-09.57.45:740][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.57.45:813][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.05-09.57.45:832][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.57.45:834][792]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_13
+[2023.04.05-09.57.45:834][792]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_13BFE3809449C4D04AA1438896D00A697B.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_13.uasset'
+[2023.04.05-09.57.45:841][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 8.23 sec)
+[2023.04.05-09.57.45:845][792]AssetCheck: New page: 资产保存：M_PrototypeGrid_13
+[2023.04.05-09.57.45:845][792]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-09.57.46:786][901]LogSlate: Window 'M_PrototypeGrid_13' being destroyed
+[2023.04.05-09.57.46:793][901]LogSlate: Window 'M_PrototypeGrid_13' being destroyed
+[2023.04.05-09.57.46:825][901]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.57.46:825][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.57.58:554][180]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-09.57.58:555][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.57.58:702][180]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.58.02:762][575]LogSlate: Window '取色器' being destroyed
+[2023.04.05-09.58.04:432][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.58.04:503][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.05-09.58.04:529][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.05-09.58.04:531][755]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_13
+[2023.04.05-09.58.04:532][755]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_1339807A6E4FE3784A065FD99FE07B3777.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_13.uasset'
+[2023.04.05-09.58.04:539][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 8.34 sec)
+[2023.04.05-09.58.04:544][755]AssetCheck: New page: 资产保存：M_PrototypeGrid_13
+[2023.04.05-09.58.04:544][755]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-09.58.05:129][821]LogSlate: Window 'M_PrototypeGrid_13' being destroyed
+[2023.04.05-09.58.05:136][821]LogSlate: Window 'M_PrototypeGrid_13' being destroyed
+[2023.04.05-09.58.05:144][821]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.58.05:144][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.58.06:814][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.58.06:865][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.05-09.58.06:881][ 11]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.58.06:881][ 11]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular41F30AD24ECF150397B8FAA8EF7AC0FB.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.58.06:891][ 11]LogFileHelpers: Saving map 'ArchitectureModular' took 0.046
+[2023.04.05-09.58.06:898][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 8.42 sec)
+[2023.04.05-09.58.06:903][ 11]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.58.06:903][ 11]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.58.09:215][256]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-09.58.09:220][256]BlueprintLog: New page: 运行前自动重新编译
+[2023.04.05-09.58.09:222][256]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.04.05-09.58.09:223][256]LogPlayLevel: [PlayLevel]   Compiling BP_FirstPersonCharacter as a dependent...
+[2023.04.05-09.58.09:291][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.05-09.58.09:292][256]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (2 blueprints)
+[2023.04.05-09.58.09:292][256]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午1:58:09）
+[2023.04.05-09.58.09:293][256]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-09.58.09:296][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003738s)
+[2023.04.05-09.58.09:296][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.003762s)
+[2023.04.05-09.58.09:296][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.58.09:297][256]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-09.58.09:297][256]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2023.04.05-09.58.09:313][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.05-09.58.09:314][256]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-09.58.09:314][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-09.58.09:314][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-09.58.09:314][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-09.58.09:314][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-09.58.09:314][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-09.58.09:316][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-09.58.09:335][256]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-09.58.09:335][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-09.58.09:335][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-09.58.09:335][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-09.58.09:336][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.05-09.58.09:336][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.05-09.58.09:337][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.05-09.58.09:337][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.04.05-09.58.09:337][256]LogInit: FAudioDevice initialized.
+[2023.04.05-09.58.09:337][256]LogAudio: Display: Audio Device (ID: 9) registered with world 'ArchitectureModular'.
+[2023.04.05-09.58.09:341][256]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-09.58.09:343][256]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-17.58.09
+[2023.04.05-09.58.09:343][256]LogWorld: Bringing up level for play took: 0.001837
+[2023.04.05-09.58.09:344][256]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.04.05-09.58.09:346][256]PIE: 登陆的服务器
+[2023.04.05-09.58.09:347][256]PIE: PIE总开始时间：0.128秒。
+[2023.04.05-09.58.10:495][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-09.58.10:495][360]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-09.58.10:495][360]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.58.10:496][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.58.10:498][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-09.58.10:502][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.58.10:519][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-09.58.10:519][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.05-09.58.10:521][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.05-09.58.10:527][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.05-09.58.10:573][361]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.04.05-09.58.13:763][700]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_2
+[2023.04.05-09.58.13:768][700]LogContentBrowser: Creating deferred item: M_PrototypeGrid_2
+[2023.04.05-09.58.13:780][701]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_2).
+[2023.04.05-09.58.14:594][797]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_2 -> M_PrototypeGrid_2
+[2023.04.05-09.58.14:595][797]LogContentBrowser: End creating deferred item M_PrototypeGrid_2
+[2023.04.05-09.58.15:199][858]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_3
+[2023.04.05-09.58.15:203][858]LogContentBrowser: Creating deferred item: M_PrototypeGrid_3
+[2023.04.05-09.58.15:216][859]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_3).
+[2023.04.05-09.58.16:006][951]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_3 -> M_PrototypeGrid_3
+[2023.04.05-09.58.16:008][951]LogContentBrowser: End creating deferred item M_PrototypeGrid_3
+[2023.04.05-09.58.16:253][979]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_4
+[2023.04.05-09.58.16:258][979]LogContentBrowser: Creating deferred item: M_PrototypeGrid_4
+[2023.04.05-09.58.16:275][980]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_4).
+[2023.04.05-09.58.16:859][ 50]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_4 -> M_PrototypeGrid_4
+[2023.04.05-09.58.16:860][ 50]LogContentBrowser: End creating deferred item M_PrototypeGrid_4
+[2023.04.05-09.58.17:254][ 96]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.58.17:256][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.58.17:397][ 96]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.58.19:153][282]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.58.19:160][282]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.58.19:180][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.05-09.58.19:223][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.05-09.58.19:255][282]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.58.19:255][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.58.27:578][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.04.05-09.58.28:497][ 99]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.05-09.58.28:522][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.05-09.58.28:540][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-09.58.28:555][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.04.05-09.58.29:497][191]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_5
+[2023.04.05-09.58.29:502][191]LogContentBrowser: Creating deferred item: M_PrototypeGrid_5
+[2023.04.05-09.58.29:516][192]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_5).
+[2023.04.05-09.58.29:934][241]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_5 -> M_PrototypeGrid_5
+[2023.04.05-09.58.29:935][241]LogContentBrowser: End creating deferred item M_PrototypeGrid_5
+[2023.04.05-09.58.30:564][303]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_6
+[2023.04.05-09.58.30:571][303]LogContentBrowser: Creating deferred item: M_PrototypeGrid_6
+[2023.04.05-09.58.30:586][304]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_6).
+[2023.04.05-09.58.30:813][331]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_6 -> M_PrototypeGrid_6
+[2023.04.05-09.58.30:814][331]LogContentBrowser: End creating deferred item M_PrototypeGrid_6
+[2023.04.05-09.58.31:408][389]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_7
+[2023.04.05-09.58.31:413][389]LogContentBrowser: Creating deferred item: M_PrototypeGrid_7
+[2023.04.05-09.58.31:433][390]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_7).
+[2023.04.05-09.58.31:638][415]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_7 -> M_PrototypeGrid_7
+[2023.04.05-09.58.31:639][415]LogContentBrowser: End creating deferred item M_PrototypeGrid_7
+[2023.04.05-09.58.32:217][472]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_8
+[2023.04.05-09.58.32:222][472]LogContentBrowser: Creating deferred item: M_PrototypeGrid_8
+[2023.04.05-09.58.32:234][473]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_8).
+[2023.04.05-09.58.32:432][497]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_8 -> M_PrototypeGrid_8
+[2023.04.05-09.58.32:433][497]LogContentBrowser: End creating deferred item M_PrototypeGrid_8
+[2023.04.05-09.58.32:986][556]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_9
+[2023.04.05-09.58.32:991][556]LogContentBrowser: Creating deferred item: M_PrototypeGrid_9
+[2023.04.05-09.58.33:004][557]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_9).
+[2023.04.05-09.58.33:200][581]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_9 -> M_PrototypeGrid_9
+[2023.04.05-09.58.33:201][581]LogContentBrowser: End creating deferred item M_PrototypeGrid_9
+[2023.04.05-09.58.33:776][636]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_10
+[2023.04.05-09.58.33:781][636]LogContentBrowser: Creating deferred item: M_PrototypeGrid_10
+[2023.04.05-09.58.33:802][637]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_10).
+[2023.04.05-09.58.33:981][659]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_10 -> M_PrototypeGrid_10
+[2023.04.05-09.58.33:982][659]LogContentBrowser: End creating deferred item M_PrototypeGrid_10
+[2023.04.05-09.58.34:513][715]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_11
+[2023.04.05-09.58.34:518][715]LogContentBrowser: Creating deferred item: M_PrototypeGrid_11
+[2023.04.05-09.58.34:537][716]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_11).
+[2023.04.05-09.58.34:759][742]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_11 -> M_PrototypeGrid_11
+[2023.04.05-09.58.34:760][742]LogContentBrowser: End creating deferred item M_PrototypeGrid_11
+[2023.04.05-09.58.35:407][810]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_12
+[2023.04.05-09.58.35:411][810]LogContentBrowser: Creating deferred item: M_PrototypeGrid_12
+[2023.04.05-09.58.35:422][811]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_12).
+[2023.04.05-09.58.35:991][878]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_12 -> M_PrototypeGrid_12
+[2023.04.05-09.58.35:992][878]LogContentBrowser: End creating deferred item M_PrototypeGrid_12
+[2023.04.05-09.58.39:379][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.58.39:429][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_2
+[2023.04.05-09.58.39:429][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_273FBE60C42C0C2BAAE775789FB1AD46F.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_2.uasset'
+[2023.04.05-09.58.39:436][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_3
+[2023.04.05-09.58.39:436][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_32E4DE15A4E480ED82C41879D73081387.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_3.uasset'
+[2023.04.05-09.58.39:443][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_4
+[2023.04.05-09.58.39:443][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_4FE270E1C4951ED0392901090A606D0F6.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_4.uasset'
+[2023.04.05-09.58.39:450][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_5
+[2023.04.05-09.58.39:450][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_5E4BD744A4B19CF7695B7FFA1BB246E96.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_5.uasset'
+[2023.04.05-09.58.39:457][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_6
+[2023.04.05-09.58.39:457][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_61A49E7E542D336CBE4BF75A2851BB5E2.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_6.uasset'
+[2023.04.05-09.58.39:464][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_7
+[2023.04.05-09.58.39:464][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_7171D33CA47A020EAF3C2A3B614274FA0.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_7.uasset'
+[2023.04.05-09.58.39:470][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_8
+[2023.04.05-09.58.39:470][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_8DE13E1D34DF96A1FF31AEA8A92595AC0.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_8.uasset'
+[2023.04.05-09.58.39:478][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_9
+[2023.04.05-09.58.39:478][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_9C0E27C3540D87CEACD980F94F6A66DE7.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_9.uasset'
+[2023.04.05-09.58.39:484][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_10
+[2023.04.05-09.58.39:485][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_108AB1F9194CDA4054BE8366835B596F85.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_10.uasset'
+[2023.04.05-09.58.39:491][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_11
+[2023.04.05-09.58.39:491][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_11FA35EC0D4BA2913D5603349814F7DF76.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_11.uasset'
+[2023.04.05-09.58.39:499][203]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_12
+[2023.04.05-09.58.39:499][203]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_126CA4A3D74D399D70F76B3AB739A847CA.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_12.uasset'
+[2023.04.05-09.58.39:505][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 8.55 sec)
+[2023.04.05-09.58.39:510][203]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_12.M_PrototypeGrid_12
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_11.M_PrototypeGrid_11
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_10.M_PrototypeGrid_10
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_7.M_PrototypeGrid_7
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_9.M_PrototypeGrid_9
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_8.M_PrototypeGrid_8
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_5.M_PrototypeGrid_5
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_6.M_PrototypeGrid_6
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_4.M_PrototypeGrid_4
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_3.M_PrototypeGrid_3
+[2023.04.05-09.58.39:510][203]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.58.40:406][288]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.58.40:407][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.58.40:560][288]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.59.16:292][904]LogSlate: Window '取色器' being destroyed
+[2023.04.05-09.59.21:185][425]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.59.21:191][425]LogSlate: Window 'M_PrototypeGrid_2' being destroyed
+[2023.04.05-09.59.21:211][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.05-09.59.21:258][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.05-09.59.21:273][425]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.59.21:273][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.59.23:410][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.59.23:457][644]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_2
+[2023.04.05-09.59.23:457][644]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_255D38B04419EA435ABF0D6A509E3FD14.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_2.uasset'
+[2023.04.05-09.59.23:463][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 8.60 sec)
+[2023.04.05-09.59.23:467][644]AssetCheck: New page: 资产保存：M_PrototypeGrid_2
+[2023.04.05-09.59.23:467][644]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-09.59.23:744][673]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_3.M_PrototypeGrid_3
+[2023.04.05-09.59.23:745][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.59.23:896][673]LogViewport: Scene viewport resized to 1135x742, mode Windowed.
+[2023.04.05-09.59.34:591][720]LogSlate: Window '取色器' being destroyed
+[2023.04.05-09.59.38:552][921]LogViewport: Scene viewport resized to 1292x942, mode Windowed.
+[2023.04.05-09.59.39:355][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.59.39:425][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.05-09.59.39:446][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.05-09.59.39:448][997]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_3
+[2023.04.05-09.59.39:449][997]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_30A417E77465F70FA24E5FC9D5E1F27E5.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_3.uasset'
+[2023.04.05-09.59.39:455][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 8.70 sec)
+[2023.04.05-09.59.39:459][997]AssetCheck: New page: 资产保存：M_PrototypeGrid_3
+[2023.04.05-09.59.39:459][997]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_3.M_PrototypeGrid_3
+[2023.04.05-09.59.40:277][ 91]LogSlate: Window 'M_PrototypeGrid_3' being destroyed
+[2023.04.05-09.59.40:284][ 91]LogSlate: Window 'M_PrototypeGrid_3' being destroyed
+[2023.04.05-09.59.40:325][ 91]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-09.59.40:325][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-09.59.43:112][406]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_4.M_PrototypeGrid_4
+[2023.04.05-09.59.43:113][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-09.59.43:266][406]LogViewport: Scene viewport resized to 1292x942, mode Windowed.
+[2023.04.05-09.59.48:015][890]LogSlate: Window '取色器' being destroyed
+[2023.04.05-09.59.49:079][  6]LogViewport: Scene viewport resized to 1128x732, mode Windowed.
+[2023.04.05-09.59.52:975][234]LogViewport: Scene viewport resized to 1127x732, mode Windowed.
+[2023.04.05-09.59.53:051][234]LogViewport: Scene viewport resized to 1111x723, mode Windowed.
+[2023.04.05-09.59.53:121][234]LogViewport: Scene viewport resized to 1047x712, mode Windowed.
+[2023.04.05-09.59.53:190][234]LogViewport: Scene viewport resized to 979x713, mode Windowed.
+[2023.04.05-09.59.53:252][234]LogViewport: Scene viewport resized to 962x714, mode Windowed.
+[2023.04.05-09.59.53:315][234]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.00.55:084][554]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.00.57:353][769]LogSlate: Window 'M_PrototypeGrid_4' being destroyed
+[2023.04.05-10.00.57:359][769]LogSlate: Window 'M_PrototypeGrid_4' being destroyed
+[2023.04.05-10.00.57:381][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.05-10.00.57:432][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-10.00.57:447][769]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.00.57:447][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.00.58:234][847]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_5.M_PrototypeGrid_5
+[2023.04.05-10.00.58:235][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.00.58:382][847]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.01.04:297][373]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.01.05:427][492]LogSlate: Window 'M_PrototypeGrid_5' being destroyed
+[2023.04.05-10.01.05:434][492]LogSlate: Window 'M_PrototypeGrid_5' being destroyed
+[2023.04.05-10.01.05:453][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-10.01.05:504][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.05-10.01.05:545][492]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.01.05:545][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.01.07:673][708]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_6.M_PrototypeGrid_6
+[2023.04.05-10.01.07:675][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.01.07:822][708]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.01.12:003][ 76]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.01.12:987][182]LogSlate: Window 'M_PrototypeGrid_6' being destroyed
+[2023.04.05-10.01.12:993][182]LogSlate: Window 'M_PrototypeGrid_6' being destroyed
+[2023.04.05-10.01.13:013][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.05-10.01.13:066][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.05-10.01.13:082][182]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.01.13:082][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.01.15:737][481]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_7.M_PrototypeGrid_7
+[2023.04.05-10.01.15:738][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.01.15:883][481]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.01.23:649][201]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.01.25:407][375]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_8.M_PrototypeGrid_8
+[2023.04.05-10.01.25:408][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.01.25:526][375]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.01.33:741][123]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.01.36:137][381]LogSlate: Window 'M_PrototypeGrid_8' being destroyed
+[2023.04.05-10.01.36:143][381]LogSlate: Window 'M_PrototypeGrid_8' being destroyed
+[2023.04.05-10.01.36:166][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.05-10.01.36:224][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.05-10.01.36:265][381]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.01.36:265][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.01.36:292][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-10.01.36:351][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.04.05-10.01.36:370][381]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.01.36:370][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.01.37:213][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.01.37:259][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.05-10.01.37:276][469]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.01.37:277][469]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModularB4C9C93D430E65C64544F491D3E4F21D.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.01.37:286][469]LogFileHelpers: Saving map 'ArchitectureModular' took 0.046
+[2023.04.05-10.01.37:292][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 8.78 sec)
+[2023.04.05-10.01.37:297][469]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.01.37:297][469]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.01.38:703][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.01.41:063][599]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.05-10.01.41:484][599]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005058s (0.422229s overbudget)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: ================================================
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Total job queries 434, among them cache hits 176 (40.55%)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 178 distinct outputs (69.53%)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: RAM used: 1.91 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Shaders Compiled: 109
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Jobs assigned 109, completed 109 (100.00%)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Average time worker was idle: 238.57 s
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Time job spent in pending queue: average 0.34 s, longest 1.80 s
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Job execution time: average 0.74 s, max 1.65 s
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 2.41
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.33 s
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Jobs were issued in 109 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Total thread time: 61.68 s
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Total thread preprocess time: 3.84 s
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Percentage time preprocessing: 6.22%
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Effective parallelization: 2.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.20% of total time (compiled   18 times, average 0.59 sec, max 0.73 sec, min 0.48 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.67% of total time (compiled   11 times, average 0.60 sec, max 0.75 sec, min 0.49 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.29% of total time (compiled   10 times, average 0.57 sec, max 0.65 sec, min 0.53 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.27% of total time (compiled    6 times, average 0.54 sec, max 0.66 sec, min 0.51 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.53% of total time (compiled    6 times, average 0.36 sec, max 0.43 sec, min 0.34 sec)
+[2023.04.05-10.01.41:487][599]LogShaderCompilers: Display: ================================================
+[2023.04.05-10.01.41:494][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/M_PrototypeGrid" FILE="../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" SILENT=true
+[2023.04.05-10.01.41:499][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid
+[2023.04.05-10.01.41:499][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGridAA6CB97D46891407402F5BB81D057604.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset'
+[2023.04.05-10.01.41:501][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_1
+[2023.04.05-10.01.41:502][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_15E8117DD4A4AC4F8C3CE048AC13BFACB.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_1.uasset'
+[2023.04.05-10.01.41:503][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_2
+[2023.04.05-10.01.41:503][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_211BEE1364932CD8216D36982A29F5EED.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_2.uasset'
+[2023.04.05-10.01.41:505][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_3
+[2023.04.05-10.01.41:505][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_316C728624C250FF97707EC93C4000F3A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_3.uasset'
+[2023.04.05-10.01.41:513][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_4
+[2023.04.05-10.01.41:513][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_4BF71D3CD4C822980837305B00041A0DF.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_4.uasset'
+[2023.04.05-10.01.41:521][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_5
+[2023.04.05-10.01.41:522][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_5B9B2042A43503FBD920B309598127F73.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_5.uasset'
+[2023.04.05-10.01.41:529][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_6
+[2023.04.05-10.01.41:529][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_6E03107F645DD0EA321D6FB9DECF9E64C.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_6.uasset'
+[2023.04.05-10.01.41:537][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_7
+[2023.04.05-10.01.41:537][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_76719262048D2743D526A63AA4185003C.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_7.uasset'
+[2023.04.05-10.01.41:544][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_8
+[2023.04.05-10.01.41:545][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_8D1AE2E9743E0491EC7BD87A72F9C564A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_8.uasset'
+[2023.04.05-10.01.41:546][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_9
+[2023.04.05-10.01.41:547][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_99274B22E474D586BF96596A45307B898.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_9.uasset'
+[2023.04.05-10.01.41:548][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_10
+[2023.04.05-10.01.41:548][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_104CE4A8BF4F7B3702387DE4A52DD55AB9.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_10.uasset'
+[2023.04.05-10.01.41:550][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_11
+[2023.04.05-10.01.41:550][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_11FE3726EC489A9C7473320A95ED414168.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_11.uasset'
+[2023.04.05-10.01.41:552][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_12
+[2023.04.05-10.01.41:552][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_12336C3EAE4DA691ED351FBF9F4A89A427.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_12.uasset'
+[2023.04.05-10.01.41:554][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_13
+[2023.04.05-10.01.41:554][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_1396EEF5AF4920ED4583108894B6F99B8A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_13.uasset'
+[2023.04.05-10.01.41:560][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/MF_ProcGrid" FILE="../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" SILENT=true
+[2023.04.05-10.01.41:567][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/MF_ProcGrid
+[2023.04.05-10.01.41:567][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/MF_ProcGrid7FF2DBED482840AB300A77B45218725B.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset'
+[2023.04.05-10.01.41:568][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/NewMaterial" FILE="../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/NewMaterial.uasset" SILENT=true
+[2023.04.05-10.01.41:569][599]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/NewMaterial
+[2023.04.05-10.01.41:569][599]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/NewMaterial8F63B71B4D5A02D3099673BC6DD52FDA.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/NewMaterial.uasset'
+[2023.04.05-10.01.41:579][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.87 sec (total: 11.6 sec)
+[2023.04.05-10.01.41:584][599]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialFunction /Game/LevelPrototyping/Materials/MF_ProcGrid.MF_ProcGrid
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_1.M_PrototypeGrid_1
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/LevelPrototyping/Materials/NewMaterial.NewMaterial
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_12.M_PrototypeGrid_12
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_11.M_PrototypeGrid_11
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_10.M_PrototypeGrid_10
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_7.M_PrototypeGrid_7
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_9.M_PrototypeGrid_9
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_8.M_PrototypeGrid_8
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_5.M_PrototypeGrid_5
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_6.M_PrototypeGrid_6
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_4.M_PrototypeGrid_4
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_3.M_PrototypeGrid_3
+[2023.04.05-10.01.41:584][599]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-10.01.42:732][703]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_9.M_PrototypeGrid_9
+[2023.04.05-10.01.42:733][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.01.42:885][703]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.01.49:982][301]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.01.51:230][420]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_10.M_PrototypeGrid_10
+[2023.04.05-10.01.51:231][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.01.51:345][420]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.01.57:901][949]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.01.59:341][101]LogSlate: Window 'M_PrototypeGrid_10' being destroyed
+[2023.04.05-10.01.59:347][101]LogSlate: Window 'M_PrototypeGrid_10' being destroyed
+[2023.04.05-10.01.59:366][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.05-10.01.59:418][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.01.59:456][101]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.01.59:456][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.01.59:483][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.04.05-10.01.59:537][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-10.01.59:553][101]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.01.59:553][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.02.00:867][240]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_11.M_PrototypeGrid_11
+[2023.04.05-10.02.00:869][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.02.01:016][240]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.02.06:445][745]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.02.14:307][489]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_12.M_PrototypeGrid_12
+[2023.04.05-10.02.14:309][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.02.14:334][489]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.02.14:451][489]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.02.19:775][936]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.02.21:047][ 74]LogSlate: Window 'M_PrototypeGrid_12' being destroyed
+[2023.04.05-10.02.21:054][ 74]LogSlate: Window 'M_PrototypeGrid_12' being destroyed
+[2023.04.05-10.02.21:075][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-10.02.21:127][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.05-10.02.21:143][ 74]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.02.21:143][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.02.21:170][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.05-10.02.21:217][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.05-10.02.21:233][ 74]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.02.21:233][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.02.24:011][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.02.24:052][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_12
+[2023.04.05-10.02.24:052][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_125733928F4495A99166E922BB7F2613C0.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_12.uasset'
+[2023.04.05-10.02.24:053][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Materials/M_PrototypeGrid" FILE="../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" SILENT=true
+[2023.04.05-10.02.24:057][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid
+[2023.04.05-10.02.24:058][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid3696A6574841B21A74E3DCA2DD187AD9.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset'
+[2023.04.05-10.02.24:059][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_1
+[2023.04.05-10.02.24:060][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_1F5AC142043146A3BD30607AD4743225F.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_1.uasset'
+[2023.04.05-10.02.24:061][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_2
+[2023.04.05-10.02.24:061][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_22F6019A94675AEA38143AEA64AF7275B.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_2.uasset'
+[2023.04.05-10.02.24:063][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_3
+[2023.04.05-10.02.24:063][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_31A01D6F54A5EF12B064D668AE8AEF62B.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_3.uasset'
+[2023.04.05-10.02.24:065][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_4
+[2023.04.05-10.02.24:065][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_47D8D5490480AE561DF8577B4257C9CA5.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_4.uasset'
+[2023.04.05-10.02.24:066][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_5
+[2023.04.05-10.02.24:067][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_58028B9F54A06B1F51EDCD0BDE275AA2A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_5.uasset'
+[2023.04.05-10.02.24:068][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_6
+[2023.04.05-10.02.24:069][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_67B373F2249E858EF06455E99A6A423FF.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_6.uasset'
+[2023.04.05-10.02.24:070][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_7
+[2023.04.05-10.02.24:070][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_7A51CD6F9459F590AC92432BC1101FC9F.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_7.uasset'
+[2023.04.05-10.02.24:072][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_8
+[2023.04.05-10.02.24:072][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_8E936FFD94A68F8FD9F0289BB69786604.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_8.uasset'
+[2023.04.05-10.02.24:081][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_9
+[2023.04.05-10.02.24:081][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_9CE2311FF483E7BE04E5002B258F77878.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_9.uasset'
+[2023.04.05-10.02.24:089][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_10
+[2023.04.05-10.02.24:089][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_10DB4C378440887D16C839789D98AEE164.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_10.uasset'
+[2023.04.05-10.02.24:096][342]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_11
+[2023.04.05-10.02.24:097][342]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_1194E81AD847AADB0CD280E09F561BBE18.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_11.uasset'
+[2023.04.05-10.02.24:102][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 11.7 sec)
+[2023.04.05-10.02.24:108][342]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/LevelPrototyping/Materials/M_PrototypeGrid.M_PrototypeGrid
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_1.M_PrototypeGrid_1
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_12.M_PrototypeGrid_12
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_11.M_PrototypeGrid_11
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_10.M_PrototypeGrid_10
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_7.M_PrototypeGrid_7
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_9.M_PrototypeGrid_9
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_8.M_PrototypeGrid_8
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_5.M_PrototypeGrid_5
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_6.M_PrototypeGrid_6
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_4.M_PrototypeGrid_4
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_3.M_PrototypeGrid_3
+[2023.04.05-10.02.24:108][342]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_2.M_PrototypeGrid_2
+[2023.04.05-10.02.37:573][844]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_13 -> M_PrototypeGrid_20
+[2023.04.05-10.02.37:592][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.02.37:623][844]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_20
+[2023.04.05-10.02.37:623][844]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_204B48CEAC4BD483CE9BE134A68A58BE54.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_20.uasset'
+[2023.04.05-10.02.37:626][844]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_13
+[2023.04.05-10.02.37:626][844]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_13015BF8814859A412ABA9DE93E4369409.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_13.uasset'
+[2023.04.05-10.02.37:633][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 11.7 sec)
+[2023.04.05-10.02.37:638][844]AssetCheck: New page: 资产保存：多个资产
+[2023.04.05-10.02.37:638][844]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_20.M_PrototypeGrid_20
+[2023.04.05-10.02.37:638][844]LogContentValidation: Display: 正在验证/Script/CoreUObject.ObjectRedirector /Game/LevelPrototyping/Materials/M_PrototypeGrid_13.M_PrototypeGrid_13
+[2023.04.05-10.02.38:697][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.02.38:741][961]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_20
+[2023.04.05-10.02.38:741][961]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_2052C6DEDE4848772AF97FBD9AEF083277.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_20.uasset'
+[2023.04.05-10.02.38:746][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 11.8 sec)
+[2023.04.05-10.02.38:750][961]AssetCheck: New page: 资产保存：M_PrototypeGrid_20
+[2023.04.05-10.02.38:751][961]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_20.M_PrototypeGrid_20
+[2023.04.05-10.03.10:181][419]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_20 -> M_PrototypeGrid_20
+[2023.04.05-10.03.11:368][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.03.11:408][549]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_20
+[2023.04.05-10.03.11:409][549]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_20B81D166F4640E8370520CE84AE8A60AC.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_20.uasset'
+[2023.04.05-10.03.11:415][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 11.8 sec)
+[2023.04.05-10.03.11:419][549]AssetCheck: New page: 资产保存：M_PrototypeGrid_20
+[2023.04.05-10.03.11:419][549]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_20.M_PrototypeGrid_20
+[2023.04.05-10.03.31:346][768]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_20 -> M_PrototypeGrid_20
+[2023.04.05-10.03.35:420][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.03.35:456][208]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_20
+[2023.04.05-10.03.35:457][208]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_2075A72C7648FDB3BD2712F9B550BCC816.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_20.uasset'
+[2023.04.05-10.03.35:462][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 11.9 sec)
+[2023.04.05-10.03.35:467][208]AssetCheck: New page: 资产保存：M_PrototypeGrid_20
+[2023.04.05-10.03.35:467][208]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_20.M_PrototypeGrid_20
+[2023.04.05-10.03.48:935][587]LogContentBrowser: Deferred new asset file creation: M_PrototypeGrid_14
+[2023.04.05-10.03.48:940][587]LogContentBrowser: Creating deferred item: M_PrototypeGrid_14
+[2023.04.05-10.03.48:952][588]LogContentBrowser: Renaming the item being created (Deferred Item: M_PrototypeGrid_14).
+[2023.04.05-10.03.49:794][688]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_14 -> M_PrototypeGrid_14
+[2023.04.05-10.03.49:796][688]LogContentBrowser: End creating deferred item M_PrototypeGrid_14
+[2023.04.05-10.03.51:197][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.03.51:248][828]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_14
+[2023.04.05-10.03.51:248][828]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_14EDC8C14F4EEFEB673A2BFB93D5D84AAF.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_14.uasset'
+[2023.04.05-10.03.51:254][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 11.9 sec)
+[2023.04.05-10.03.51:261][828]AssetCheck: New page: 资产保存：M_PrototypeGrid_14
+[2023.04.05-10.03.51:261][828]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.03.51:626][868]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.03.51:627][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.03.51:771][868]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.04.05:015][129]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.04.06:093][242]LogSlate: Window 'M_PrototypeGrid_14' being destroyed
+[2023.04.05-10.04.06:100][242]LogSlate: Window 'M_PrototypeGrid_14' being destroyed
+[2023.04.05-10.04.06:119][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.05-10.04.06:169][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.05-10.04.06:183][242]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.04.06:183][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.04.08:239][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.04.08:289][455]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_14
+[2023.04.05-10.04.08:290][455]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_144DDFE81842D43651834D6A90F93F7F6A.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_14.uasset'
+[2023.04.05-10.04.08:295][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 12.0 sec)
+[2023.04.05-10.04.08:300][455]AssetCheck: New page: 资产保存：M_PrototypeGrid_14
+[2023.04.05-10.04.08:300][455]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.04.27:969][657]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/untitled_category/untitled_asset/墙拐角墙.墙拐角墙
+[2023.04.05-10.04.28:002][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.04.28:236][657]LogViewport: Scene viewport resized to 1009x714, mode Windowed.
+[2023.04.05-10.04.29:909][786]LogSlate: Window '墙拐角墙' being destroyed
+[2023.04.05-10.04.29:923][786]LogSlate: Window '墙拐角墙' being destroyed
+[2023.04.05-10.04.29:952][786]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.04.29:952][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.04.30:699][862]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/untitled_category/untitled_asset/地基4x4x2.地基4x4x2
+[2023.04.05-10.04.30:737][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.04.30:972][862]LogViewport: Scene viewport resized to 1009x714, mode Windowed.
+[2023.04.05-10.04.44:646][835]LogContentBrowser: Attempting asset rename: M_PrototypeGrid_14 -> M_PrototypeGrid_14
+[2023.04.05-10.04.49:195][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.04.49:230][190]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_14
+[2023.04.05-10.04.49:230][190]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_144835539F4273B41FD3607BB837509353.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_14.uasset'
+[2023.04.05-10.04.49:238][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 12.0 sec)
+[2023.04.05-10.04.49:242][190]AssetCheck: New page: 资产保存：M_PrototypeGrid_14
+[2023.04.05-10.04.49:242][190]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.04.53:236][529]LogSlate: Window '地基4x4x2' being destroyed
+[2023.04.05-10.04.53:250][529]LogSlate: Window '地基4x4x2' being destroyed
+[2023.04.05-10.04.53:279][529]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.04.53:279][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.05.26:976][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.05.27:028][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.05-10.05.27:046][236]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.05.27:047][236]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModularB70E63FB46856BCE0293E58C82ED9B20.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.05.27:056][236]LogFileHelpers: Saving map 'ArchitectureModular' took 0.052
+[2023.04.05-10.05.27:062][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 12.1 sec)
+[2023.04.05-10.05.27:067][236]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.05.27:067][236]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.05.31:403][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.05.35:155][ 80]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.05.35:156][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.05.35:312][ 80]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.05.50:149][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.05.50:217][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.05-10.05.50:237][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-10.05.50:239][658]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/M_PrototypeGrid_14
+[2023.04.05-10.05.50:240][658]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/M_PrototypeGrid_140036501B49FB1DB0B86412B63F7A47B9.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/LevelPrototyping/Materials/M_PrototypeGrid_14.uasset'
+[2023.04.05-10.05.50:250][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 12.2 sec)
+[2023.04.05-10.05.50:254][658]AssetCheck: New page: 资产保存：M_PrototypeGrid_14
+[2023.04.05-10.05.50:254][658]LogContentValidation: Display: 正在验证/Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.05.51:175][755]LogSlate: Window 'M_PrototypeGrid_14' being destroyed
+[2023.04.05-10.05.51:181][755]LogSlate: Window 'M_PrototypeGrid_14' being destroyed
+[2023.04.05-10.05.51:226][755]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.05.51:226][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.05.57:859][505]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.05.57:864][505]BlueprintLog: New page: 运行前自动重新编译
+[2023.04.05-10.05.57:866][505]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.04.05-10.05.57:867][505]LogPlayLevel: [PlayLevel]   Compiling BP_FirstPersonCharacter as a dependent...
+[2023.04.05-10.05.57:937][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.05-10.05.57:941][505]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (2 blueprints)
+[2023.04.05-10.05.57:941][505]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:05:57）
+[2023.04.05-10.05.57:966][505]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.05.57:970][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003729s)
+[2023.04.05-10.05.57:970][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.003756s)
+[2023.04.05-10.05.57:970][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.05.57:970][505]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.05.57:970][505]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2023.04.05-10.05.57:988][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.05-10.05.57:989][505]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.05.57:989][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.05.57:989][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.05.57:989][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.05.57:989][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.05.57:989][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.05.57:991][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.05.58:010][505]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.05.58:010][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.05.58:010][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.05.58:010][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.05.58:011][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.04.05-10.05.58:011][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.04.05-10.05.58:012][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.04.05-10.05.58:012][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.04.05-10.05.58:012][505]LogInit: FAudioDevice initialized.
+[2023.04.05-10.05.58:012][505]LogAudio: Display: Audio Device (ID: 10) registered with world 'ArchitectureModular'.
+[2023.04.05-10.05.58:016][505]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.05.58:018][505]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.05.58
+[2023.04.05-10.05.58:018][505]LogWorld: Bringing up level for play took: 0.001760
+[2023.04.05-10.05.58:019][505]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.04.05-10.05.58:021][505]PIE: 登陆的服务器
+[2023.04.05-10.05.58:022][505]PIE: PIE总开始时间：0.157秒。
+[2023.04.05-10.06.03:556][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.06.03:556][148]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.06.03:556][148]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.06.03:556][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.06.03:559][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.06.03:562][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.06.03:579][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.06.03:579][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.05-10.06.03:581][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.04.05-10.06.03:587][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.04.05-10.06.03:636][149]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.04.05-10.06.49:027][ 42]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.06.51:112][277]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.06.55:339][777]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.06.59:265][202]LogViewport: Scene viewport resized to 705x942, mode Windowed.
+[2023.04.05-10.07.14:860][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.07.26:425][283]LogStaticMesh: Display: 正在构建静态网格体层板外置平台4x4xp2……
+[2023.04.05-10.07.26:432][283]LogStaticMesh: Built static mesh [0.01s] /Game/untitled_category/untitled_asset/层板外置平台4x4xp2.层板外置平台4x4xp2
+[2023.04.05-10.07.29:949][679]LogViewport: Scene viewport resized to 947x942, mode Windowed.
+[2023.04.05-10.07.31:836][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.07.39:978][761]Cmd: DELETE
+[2023.04.05-10.07.39:978][761]Cmd: ACTOR DELETE
+[2023.04.05-10.07.39:980][761]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.07.40:000][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.05-10.07.40:005][761]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2023.04.05-10.07.40:611][825]Cmd: DELETE
+[2023.04.05-10.07.40:612][825]Cmd: ACTOR DELETE
+[2023.04.05-10.07.40:613][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.07.40:631][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.07.40:634][825]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.05-10.07.45:463][354]Cmd: DELETE
+[2023.04.05-10.07.45:463][354]Cmd: ACTOR DELETE
+[2023.04.05-10.07.45:465][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.07.45:482][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.07.45:485][354]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.05-10.07.46:165][428]Cmd: DELETE
+[2023.04.05-10.07.46:165][428]Cmd: ACTOR DELETE
+[2023.04.05-10.07.46:166][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.07.46:185][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.05-10.07.46:188][428]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.04.05-10.07.55:122][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.08.18:665][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.08.45:299][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.08.45:349][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.05-10.08.45:368][878]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.08.45:368][878]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular65A2443946C14AF6D720CEB143C92DDF.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.08.45:377][878]LogFileHelpers: Saving map 'ArchitectureModular' took 0.046
+[2023.04.05-10.08.45:395][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 12.3 sec)
+[2023.04.05-10.08.45:400][878]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.08.45:400][878]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.08.55:437][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.08.59:525][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.09.03:894][883]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.09.03:899][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.09.03:899][883]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:09:03）
+[2023.04.05-10.09.03:926][883]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.09.03:930][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003907s)
+[2023.04.05-10.09.03:930][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.003939s)
+[2023.04.05-10.09.03:930][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.09.03:930][883]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.09.03:931][883]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2023.04.05-10.09.03:950][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.05-10.09.03:954][883]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.09.03:954][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.09.03:954][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.09.03:954][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.09.03:954][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.09.03:954][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.09.03:956][883]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.09.03:975][883]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.09.03:975][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.09.03:975][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.09.03:975][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.09.03:976][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.04.05-10.09.03:976][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.04.05-10.09.03:977][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.04.05-10.09.03:977][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.04.05-10.09.03:977][883]LogInit: FAudioDevice initialized.
+[2023.04.05-10.09.03:977][883]LogAudio: Display: Audio Device (ID: 11) registered with world 'ArchitectureModular'.
+[2023.04.05-10.09.03:981][883]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.09.03:983][883]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.09.03
+[2023.04.05-10.09.03:983][883]LogWorld: Bringing up level for play took: 0.002008
+[2023.04.05-10.09.03:984][883]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.04.05-10.09.03:985][883]PIE: 登陆的服务器
+[2023.04.05-10.09.03:987][883]PIE: PIE总开始时间：0.088秒。
+[2023.04.05-10.09.13:137][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.09.13:137][942]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.09.13:137][942]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.09.13:137][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.09.13:140][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.09.13:144][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.09.13:161][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.09.13:161][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.05-10.09.13:163][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.04.05-10.09.13:166][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.09.13:167][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.04.05-10.09.13:215][943]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.04.05-10.09.14:313][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.09.14:376][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.05-10.09.14:391][ 66]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.09.14:392][ 66]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular0C313AEF4B1D88B14E0DB39BB4402E4D.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.09.14:401][ 66]LogFileHelpers: Saving map 'ArchitectureModular' took 0.046
+[2023.04.05-10.09.14:407][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 12.4 sec)
+[2023.04.05-10.09.14:411][ 66]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.09.14:411][ 66]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.09.34:400][204]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.09.34:405][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.09.34:405][204]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:09:34）
+[2023.04.05-10.09.34:437][204]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.09.34:441][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003994s)
+[2023.04.05-10.09.34:441][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.004023s)
+[2023.04.05-10.09.34:441][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.09.34:441][204]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.09.34:441][204]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2023.04.05-10.09.34:459][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-10.09.34:462][204]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.09.34:462][204]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.09.34:462][204]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.09.34:463][204]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.09.34:463][204]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.09.34:463][204]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.09.34:464][204]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.09.34:482][204]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.09.34:483][204]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.09.34:483][204]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.09.34:483][204]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.09.34:483][204]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.04.05-10.09.34:483][204]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.04.05-10.09.34:484][204]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.04.05-10.09.34:484][204]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.04.05-10.09.34:484][204]LogInit: FAudioDevice initialized.
+[2023.04.05-10.09.34:484][204]LogAudio: Display: Audio Device (ID: 12) registered with world 'ArchitectureModular'.
+[2023.04.05-10.09.34:488][204]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.09.34:490][204]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.09.34
+[2023.04.05-10.09.34:490][204]LogWorld: Bringing up level for play took: 0.001843
+[2023.04.05-10.09.34:492][204]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.04.05-10.09.34:493][204]PIE: 登陆的服务器
+[2023.04.05-10.09.34:494][204]PIE: PIE总开始时间：0.089秒。
+[2023.04.05-10.09.47:627][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.09.47:627][759]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.09.47:627][759]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.09.47:627][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.09.47:630][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.09.47:635][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.09.47:654][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.09.47:654][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.05-10.09.47:656][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.04.05-10.09.47:659][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.09.47:662][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.05-10.09.47:698][760]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.04.05-10.11.02:230][107]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/M_PrototypeGrid_14.M_PrototypeGrid_14
+[2023.04.05-10.11.02:231][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.11.02:377][107]LogViewport: Scene viewport resized to 958x714, mode Windowed.
+[2023.04.05-10.11.04:089][284]LogSlate: Window 'M_PrototypeGrid_14' being destroyed
+[2023.04.05-10.11.04:094][284]LogSlate: Window 'M_PrototypeGrid_14' being destroyed
+[2023.04.05-10.11.04:105][284]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.11.04:105][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.11.05:293][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.11.05:347][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.05-10.11.05:368][418]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.11.05:368][418]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular8F6AFBC749122E6DA33FFBB89A58ADC5.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.11.05:377][418]LogFileHelpers: Saving map 'ArchitectureModular' took 0.051
+[2023.04.05-10.11.05:382][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 12.5 sec)
+[2023.04.05-10.11.05:387][418]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.11.05:387][418]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.12.09:441][963]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.12.09:446][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.12.09:446][963]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:12:09）
+[2023.04.05-10.12.09:467][963]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.12.09:471][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003914s)
+[2023.04.05-10.12.09:471][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.003940s)
+[2023.04.05-10.12.09:471][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.12.09:471][963]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.12.09:471][963]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2023.04.05-10.12.09:490][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.05-10.12.09:493][963]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.12.09:493][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.12.09:493][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.12.09:493][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.12.09:493][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.12.09:493][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.12.09:495][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.12.09:513][963]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.12.09:513][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.12.09:513][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.12.09:513][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.12.09:514][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.04.05-10.12.09:514][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.04.05-10.12.09:515][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.04.05-10.12.09:515][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.04.05-10.12.09:515][963]LogInit: FAudioDevice initialized.
+[2023.04.05-10.12.09:515][963]LogAudio: Display: Audio Device (ID: 13) registered with world 'ArchitectureModular'.
+[2023.04.05-10.12.09:519][963]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.12.09:521][963]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.12.09
+[2023.04.05-10.12.09:521][963]LogWorld: Bringing up level for play took: 0.002068
+[2023.04.05-10.12.09:522][963]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.04.05-10.12.09:524][963]PIE: 登陆的服务器
+[2023.04.05-10.12.09:525][963]PIE: PIE总开始时间：0.08秒。
+[2023.04.05-10.12.19:747][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.12.19:747][168]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.12.19:747][168]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.12.19:747][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.12.19:750][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.12.19:754][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.12.19:771][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.12.19:771][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.04.05-10.12.19:772][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.04.05-10.12.19:775][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.12.19:778][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.05-10.12.19:823][169]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.04.05-10.13.20:053][393]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.13.22:537][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.13.35:855][ 50]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.13.40:972][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.13.47:630][246]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.14.12:325][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.14.17:844][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.14.19:412][786]Cmd: TRANSACTION UNDO
+[2023.04.05-10.14.19:412][786]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.14.45:911][576]Cmd: DUPLICATE
+[2023.04.05-10.14.45:911][576]Cmd: ACTOR DUPLICATE
+[2023.04.05-10.14.51:499][166]Cmd: DELETE
+[2023.04.05-10.14.51:499][166]Cmd: ACTOR DELETE
+[2023.04.05-10.14.51:500][166]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.14.51:519][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.05-10.14.51:527][166]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.04.05-10.14.52:139][230]Cmd: DELETE
+[2023.04.05-10.14.52:139][230]Cmd: ACTOR DELETE
+[2023.04.05-10.14.52:141][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.14.52:159][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.05-10.14.52:162][230]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.05-10.15.05:403][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.15.16:037][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.17.02:897][707]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.17.02:902][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.17.02:902][707]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:17:02）
+[2023.04.05-10.17.02:927][707]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.17.02:934][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006710s)
+[2023.04.05-10.17.02:934][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.006740s)
+[2023.04.05-10.17.02:934][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.17.02:934][707]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.17.02:935][707]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.04.05-10.17.02:953][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.04.05-10.17.02:960][707]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.17.02:960][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.17.02:960][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.17.02:960][707]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.17.02:960][707]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.17.02:960][707]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.17.02:962][707]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.17.02:981][707]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.17.02:982][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.17.02:982][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.17.02:982][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.17.02:983][707]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.04.05-10.17.02:983][707]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.04.05-10.17.02:984][707]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.04.05-10.17.02:984][707]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.04.05-10.17.02:984][707]LogInit: FAudioDevice initialized.
+[2023.04.05-10.17.02:984][707]LogAudio: Display: Audio Device (ID: 14) registered with world 'ArchitectureModular'.
+[2023.04.05-10.17.02:987][707]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.17.02:991][707]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.17.02
+[2023.04.05-10.17.02:991][707]LogWorld: Bringing up level for play took: 0.003392
+[2023.04.05-10.17.02:992][707]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.04.05-10.17.02:995][707]PIE: 登陆的服务器
+[2023.04.05-10.17.02:996][707]PIE: PIE总开始时间：0.094秒。
+[2023.04.05-10.17.06:627][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.17.06:627][123]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.17.06:627][123]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.17.06:628][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.17.06:630][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.17.06:634][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.17.06:651][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.17.06:652][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.04.05-10.17.06:653][123]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.04.05-10.17.06:656][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.17.06:659][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.05-10.17.06:706][124]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.04.05-10.17.15:026][974]Cmd: DELETE
+[2023.04.05-10.17.15:026][974]Cmd: ACTOR DELETE
+[2023.04.05-10.17.15:028][974]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.17.15:029][974]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.17.15:030][974]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.17.15:030][974]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.17.15:048][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.05-10.17.15:051][974]LogEditorActor: Deleted 4 Actors (0.025 secs)
+[2023.04.05-10.17.32:736][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.17.39:660][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.18.04:089][156]Cmd: TRANSACTION UNDO
+[2023.04.05-10.18.04:089][156]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.18.15:385][380]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.19.20:206][177]Cmd: DELETE
+[2023.04.05-10.19.20:206][177]Cmd: ACTOR DELETE
+[2023.04.05-10.19.20:208][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:209][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:209][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:210][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:210][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:211][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:211][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:212][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:213][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:213][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:214][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:214][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:215][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:215][177]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.20:233][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.05-10.19.20:240][177]LogEditorActor: Deleted 14 Actors (0.034 secs)
+[2023.04.05-10.19.25:824][782]Cmd: DELETE
+[2023.04.05-10.19.25:824][782]Cmd: ACTOR DELETE
+[2023.04.05-10.19.25:826][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:827][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:827][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:828][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:828][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:829][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:829][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:830][782]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.25:848][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.25:851][782]LogEditorActor: Deleted 8 Actors (0.027 secs)
+[2023.04.05-10.19.29:656][199]Cmd: DELETE
+[2023.04.05-10.19.29:656][199]Cmd: ACTOR DELETE
+[2023.04.05-10.19.29:658][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:659][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:659][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:660][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:661][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:661][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:662][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:663][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.29:685][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.05-10.19.29:688][199]LogEditorActor: Deleted 8 Actors (0.033 secs)
+[2023.04.05-10.19.40:867][411]Cmd: DELETE
+[2023.04.05-10.19.40:867][411]Cmd: ACTOR DELETE
+[2023.04.05-10.19.40:869][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.40:870][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.40:871][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.40:872][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.40:872][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.40:890][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.04.05-10.19.40:894][411]LogEditorActor: Deleted 5 Actors (0.027 secs)
+[2023.04.05-10.19.49:228][282]Cmd: DELETE
+[2023.04.05-10.19.49:228][282]Cmd: ACTOR DELETE
+[2023.04.05-10.19.49:230][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.49:231][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.49:232][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.49:249][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.49:252][282]LogEditorActor: Deleted 3 Actors (0.024 secs)
+[2023.04.05-10.19.51:028][487]Cmd: DELETE
+[2023.04.05-10.19.51:028][487]Cmd: ACTOR DELETE
+[2023.04.05-10.19.51:030][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.51:047][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.51:050][487]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.04.05-10.19.51:341][513]Cmd: DELETE
+[2023.04.05-10.19.51:341][513]Cmd: ACTOR DELETE
+[2023.04.05-10.19.51:343][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.51:361][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.05-10.19.51:364][513]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.04.05-10.19.51:718][546]Cmd: DELETE
+[2023.04.05-10.19.51:718][546]Cmd: ACTOR DELETE
+[2023.04.05-10.19.51:720][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.51:738][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.51:741][546]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.05-10.19.52:705][648]Cmd: DELETE
+[2023.04.05-10.19.52:705][648]Cmd: ACTOR DELETE
+[2023.04.05-10.19.52:707][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.52:725][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.52:728][648]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.04.05-10.19.53:186][695]Cmd: DELETE
+[2023.04.05-10.19.53:186][695]Cmd: ACTOR DELETE
+[2023.04.05-10.19.53:188][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.53:206][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.53:209][695]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2023.04.05-10.19.53:660][740]Cmd: DELETE
+[2023.04.05-10.19.53:660][740]Cmd: ACTOR DELETE
+[2023.04.05-10.19.53:662][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.53:680][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.53:683][740]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.05-10.19.54:701][855]Cmd: DELETE
+[2023.04.05-10.19.54:701][855]Cmd: ACTOR DELETE
+[2023.04.05-10.19.54:703][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.19.54:720][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.19.54:723][855]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.05-10.20.00:117][450]Cmd: DELETE
+[2023.04.05-10.20.00:117][450]Cmd: ACTOR DELETE
+[2023.04.05-10.20.00:119][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.00:120][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.00:121][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.00:121][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.00:122][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.00:122][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.00:139][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.05-10.20.00:142][450]LogEditorActor: Deleted 6 Actors (0.025 secs)
+[2023.04.05-10.20.02:520][712]Cmd: DELETE
+[2023.04.05-10.20.02:520][712]Cmd: ACTOR DELETE
+[2023.04.05-10.20.02:523][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.02:523][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.02:524][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.02:542][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-10.20.02:545][712]LogEditorActor: Deleted 3 Actors (0.024 secs)
+[2023.04.05-10.20.15:870][ 79]Cmd: DELETE
+[2023.04.05-10.20.15:870][ 79]Cmd: ACTOR DELETE
+[2023.04.05-10.20.15:872][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.15:873][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.05-10.20.15:891][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.05-10.20.15:896][ 79]LogEditorActor: Deleted 2 Actors (0.026 secs)
+[2023.04.05-10.20.27:455][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.20.35:745][193]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.20.45:302][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.20.45:352][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.05-10.20.45:375][267]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.20.45:375][267]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModularB1ACE99741ED19AC075344A1EC92E2F3.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.20.45:386][267]LogFileHelpers: Saving map 'ArchitectureModular' took 0.050
+[2023.04.05-10.20.45:402][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 12.6 sec)
+[2023.04.05-10.20.45:407][267]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.20.45:407][267]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.20.51:889][991]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.04.05-10.20.51:890][991]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.04.05-10.20.53:857][195]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.21.23:735][504]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.21.36:009][857]Cmd: DELETE
+[2023.04.05-10.21.36:009][857]Cmd: ACTOR DELETE
+[2023.04.05-10.21.36:011][857]LogEditorActor: Deleted Actor: PointLight
+[2023.04.05-10.21.36:012][857]LogEditorActor: Deleted Actor: PointLight
+[2023.04.05-10.21.36:031][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.05-10.21.36:035][857]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2023.04.05-10.21.44:369][820]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.04.05-10.21.44:369][820]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2023.04.05-10.22.12:362][932]LogSlate: Window '取色器' being destroyed
+[2023.04.05-10.22.30:839][863]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.22.30:844][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.22.30:844][863]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:22:30）
+[2023.04.05-10.22.30:868][863]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.22.30:873][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005222s)
+[2023.04.05-10.22.30:873][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.005253s)
+[2023.04.05-10.22.30:874][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.22.30:874][863]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.22.30:874][863]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.04.05-10.22.30:894][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.04.05-10.22.30:898][863]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.22.30:899][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.22.30:899][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.22.30:899][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.22.30:899][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.22.30:899][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.22.30:901][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.22.30:919][863]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.22.30:920][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.22.30:920][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.22.30:920][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.22.30:921][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.04.05-10.22.30:921][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.04.05-10.22.30:922][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.04.05-10.22.30:922][863]LogInit: FAudioDevice initialized.
+[2023.04.05-10.22.30:922][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.04.05-10.22.30:922][863]LogAudio: Display: Audio Device (ID: 15) registered with world 'ArchitectureModular'.
+[2023.04.05-10.22.30:926][863]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.22.30:928][863]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.22.30
+[2023.04.05-10.22.30:929][863]LogWorld: Bringing up level for play took: 0.002867
+[2023.04.05-10.22.30:930][863]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.04.05-10.22.30:932][863]PIE: 登陆的服务器
+[2023.04.05-10.22.30:933][863]PIE: PIE总开始时间：0.088秒。
+[2023.04.05-10.22.40:438][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.22.40:438][983]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.22.40:438][983]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.22.40:438][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.22.40:441][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.22.40:445][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.22.40:462][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.22.40:462][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.05-10.22.40:464][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.04.05-10.22.40:467][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.22.40:469][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.05-10.22.40:528][985]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.04.05-10.22.41:933][151]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.41:933][151]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.42:187][161]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.42:187][161]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.42:354][166]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.42:354][166]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.42:534][174]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.42:534][174]LogEditorTransaction: Undo 点击元素
+[2023.04.05-10.22.42:732][193]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.42:732][193]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.42:888][209]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.42:888][209]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.43:023][218]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.43:023][218]LogEditorTransaction: Undo 编辑光源颜色
+[2023.04.05-10.22.43:209][237]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.43:209][237]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.43:363][254]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.43:363][254]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.43:583][275]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.43:584][275]LogEditorTransaction: Undo 旋转元素
+[2023.04.05-10.22.43:820][300]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.43:820][300]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.44:152][335]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.44:152][335]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.22.44:511][375]Cmd: TRANSACTION UNDO
+[2023.04.05-10.22.44:511][375]LogEditorTransaction: Undo 创建Actor
+[2023.04.05-10.22.54:293][500]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.04.05-10.22.54:293][500]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2023.04.05-10.23.00:314][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.23.04:404][580]Cmd: DELETE
+[2023.04.05-10.23.04:404][580]Cmd: ACTOR DELETE
+[2023.04.05-10.23.04:406][580]LogEditorActor: Deleted Actor: RectLight
+[2023.04.05-10.23.04:425][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.05-10.23.04:432][580]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2023.04.05-10.23.07:084][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.23.07:136][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.04.05-10.23.07:153][858]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.23.07:153][858]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular2C198FBF4F1297D6E6C349A15B918349.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.23.07:163][858]LogFileHelpers: Saving map 'ArchitectureModular' took 0.044
+[2023.04.05-10.23.07:170][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 12.7 sec)
+[2023.04.05-10.23.07:175][858]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.23.07:175][858]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.23.14:796][725]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.04.05-10.23.14:796][725]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.04.05-10.23.27:746][169]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.23.40:046][521]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.23.40:051][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.23.40:051][521]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:23:40）
+[2023.04.05-10.23.40:088][521]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.23.40:093][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005225s)
+[2023.04.05-10.23.40:093][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.005258s)
+[2023.04.05-10.23.40:093][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.23.40:093][521]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.23.40:094][521]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2023.04.05-10.23.40:113][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.04.05-10.23.40:115][521]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.23.40:116][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.23.40:116][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.23.40:116][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.23.40:116][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.23.40:116][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.23.40:118][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.23.40:136][521]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.23.40:136][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.23.40:136][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.23.40:136][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.23.40:136][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.04.05-10.23.40:136][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.04.05-10.23.40:138][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.04.05-10.23.40:138][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.04.05-10.23.40:138][521]LogInit: FAudioDevice initialized.
+[2023.04.05-10.23.40:138][521]LogAudio: Display: Audio Device (ID: 16) registered with world 'ArchitectureModular'.
+[2023.04.05-10.23.40:142][521]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.23.40:144][521]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.23.40
+[2023.04.05-10.23.40:145][521]LogWorld: Bringing up level for play took: 0.002393
+[2023.04.05-10.23.40:146][521]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.04.05-10.23.40:147][521]PIE: 登陆的服务器
+[2023.04.05-10.23.40:148][521]PIE: PIE总开始时间：0.097秒。
+[2023.04.05-10.23.49:348][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.23.49:348][606]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.23.49:348][606]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.23.49:349][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.23.49:351][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.23.49:355][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.23.49:372][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.23.49:372][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.04.05-10.23.49:373][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.04.05-10.23.49:376][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.23.49:379][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.05-10.23.49:419][607]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.04.05-10.23.56:272][307]Cmd: TRANSACTION UNDO
+[2023.04.05-10.23.56:272][307]LogEditorTransaction: Undo 移动元素
+[2023.04.05-10.24.09:623][770]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-10.24.25:413][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.24.25:462][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.05-10.24.25:482][440]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.24.25:482][440]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular07BD7FE84CF939DC46CD6C8270992C91.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.24.25:491][440]LogFileHelpers: Saving map 'ArchitectureModular' took 0.047
+[2023.04.05-10.24.25:501][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 12.8 sec)
+[2023.04.05-10.24.25:506][440]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.24.25:506][440]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-10.24.34:182][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.24.34:236][412]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.04.05-10.24.34:237][412]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/BP_FirstPersonCharacterA1BF0CB64B53666A7798F39AC24FCBB0.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.04.05-10.24.34:245][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 12.8 sec)
+[2023.04.05-10.24.34:249][412]AssetCheck: New page: 资产保存：BP_FirstPersonCharacter
+[2023.04.05-10.24.34:249][412]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.04.05-10.24.35:550][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C
+[2023.04.05-10.24.35:550][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C
+[2023.04.05-10.24.35:551][535]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle as actor: BP_Pickup_Rifle_C /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular:PersistentLevel.BP_Pickup_Rifle_C_0
+[2023.04.05-10.24.35:552][535]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle as actor: BP_Pickup_Rifle_C /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular:PersistentLevel.BP_Pickup_Rifle_C_0
+[2023.04.05-10.24.35:989][570]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C
+[2023.04.05-10.24.35:989][570]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C
+[2023.04.05-10.24.35:991][570]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle as actor: BP_Pickup_Rifle_C /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular:PersistentLevel.BP_Pickup_Rifle_C_1
+[2023.04.05-10.24.35:992][570]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle as actor: BP_Pickup_Rifle_C /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular:PersistentLevel.BP_Pickup_Rifle_C_1
+[2023.04.05-10.24.40:000][ 35]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.24.40:005][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.24.40:005][ 35]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:24:40）
+[2023.04.05-10.24.40:038][ 35]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.24.40:044][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005481s)
+[2023.04.05-10.24.40:044][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.005512s)
+[2023.04.05-10.24.40:044][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.24.40:044][ 35]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.24.40:045][ 35]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2023.04.05-10.24.40:063][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.04.05-10.24.40:068][ 35]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.24.40:068][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.24.40:068][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.24.40:068][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.24.40:068][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.24.40:068][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.24.40:070][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.24.40:088][ 35]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.24.40:088][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.24.40:088][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.24.40:088][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.24.40:089][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.04.05-10.24.40:089][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.04.05-10.24.40:090][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.04.05-10.24.40:090][ 35]LogInit: FAudioDevice initialized.
+[2023.04.05-10.24.40:090][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.04.05-10.24.40:090][ 35]LogAudio: Display: Audio Device (ID: 17) registered with world 'ArchitectureModular'.
+[2023.04.05-10.24.40:094][ 35]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.24.40:096][ 35]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.24.40
+[2023.04.05-10.24.40:097][ 35]LogWorld: Bringing up level for play took: 0.002608
+[2023.04.05-10.24.40:098][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2023.04.05-10.24.40:100][ 35]PIE: 登陆的服务器
+[2023.04.05-10.24.40:101][ 35]PIE: PIE总开始时间：0.096秒。
+[2023.04.05-10.24.51:959][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.24.51:959][435]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.24.51:959][435]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.24.51:959][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.24.51:962][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.24.51:966][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.24.51:982][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.05-10.24.51:983][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.04.05-10.24.51:984][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.04.05-10.24.51:987][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.24.51:990][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.04.05-10.24.52:027][436]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.04.05-10.24.58:774][183]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2023.04.05-10.24.58:779][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.05-10.24.58:779][183]PIE: New page: PIE会话：ArchitectureModular（2023年4月6日 上午2:24:58）
+[2023.04.05-10.24.58:808][183]LogPlayLevel: Creating play world package: /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.24.58:813][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005336s)
+[2023.04.05-10.24.58:813][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular to /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular (0.005368s)
+[2023.04.05-10.24.58:813][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.05-10.24.58:814][183]LogAIModule: Creating AISystem for world ArchitectureModular
+[2023.04.05-10.24.58:814][183]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2023.04.05-10.24.58:831][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.05-10.24.58:834][183]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.05-10.24.58:834][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.05-10.24.58:834][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.05-10.24.58:834][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.05-10.24.58:834][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.05-10.24.58:834][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.05-10.24.58:836][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.05-10.24.58:855][183]LogAudioMixer: Display: Using Audio Hardware Device 4 - 2777M (AMD High Definition Audio Device)
+[2023.04.05-10.24.58:855][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.05-10.24.58:855][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.05-10.24.58:855][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.05-10.24.58:855][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.04.05-10.24.58:855][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.04.05-10.24.58:856][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.04.05-10.24.58:856][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.04.05-10.24.58:856][183]LogInit: FAudioDevice initialized.
+[2023.04.05-10.24.58:856][183]LogAudio: Display: Audio Device (ID: 18) registered with world 'ArchitectureModular'.
+[2023.04.05-10.24.58:860][183]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.05-10.24.58:863][183]LogWorld: Bringing World /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular.ArchitectureModular up for play (max tick rate 0) at 2023.04.05-18.24.58
+[2023.04.05-10.24.58:863][183]LogWorld: Bringing up level for play took: 0.002618
+[2023.04.05-10.24.58:864][183]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.04.05-10.24.58:866][183]PIE: 登陆的服务器
+[2023.04.05-10.24.58:867][183]PIE: PIE总开始时间：0.088秒。
+[2023.04.05-10.25.15:108][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.25.15:108][ 99]LogWorld: BeginTearingDown for /Game/ArchitectureModular/UEDPIE_0_ArchitectureModular
+[2023.04.05-10.25.15:108][ 99]LogWorld: UWorld::CleanupWorld for ArchitectureModular, bSessionEnded=true, bCleanupResources=true
+[2023.04.05-10.25.15:109][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.25.15:111][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.05-10.25.15:116][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.05-10.25.15:132][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.05-10.25.15:133][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.04.05-10.25.15:134][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.04.05-10.25.15:140][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.05-10.25.15:199][101]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.04.05-10.33.24:852][559]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - (Keyboard).
+[2023.04.05-10.33.24:852][559]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2023.04.05-10.33.25:669][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-10.33.25:717][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.05-10.33.25:736][655]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-10.33.25:737][655]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular0CC73138487B1A268D4BB4A05240D9E3.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-10.33.25:747][655]LogFileHelpers: Saving map 'ArchitectureModular' took 0.049
+[2023.04.05-10.33.25:752][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 12.9 sec)
+[2023.04.05-10.33.25:756][655]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-10.33.25:756][655]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
