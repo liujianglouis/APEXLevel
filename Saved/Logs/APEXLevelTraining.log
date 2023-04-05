@@ -2691,3 +2691,92 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.05-09.35.00:188][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.02 sec)
 [2023.04.05-09.35.00:192][446]AssetCheck: New page: 资产保存：ArchitectureModular
 [2023.04.05-09.35.00:192][446]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.37.23:210][811]Cmd: TRANSACTION UNDO
+[2023.04.05-09.37.23:210][811]LogEditorTransaction: Undo 移动元素
+[2023.04.05-09.37.27:432][255]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.37.46:065][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.37.58:644][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.38.25:133][309]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.38.35:573][399]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.38.40:359][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.38.40:401][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.05-09.38.40:420][913]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.38.40:421][913]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModularA2AE29D746D429D28A4EE780355E7BFF.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.38.40:430][913]LogFileHelpers: Saving map 'ArchitectureModular' took 0.047
+[2023.04.05-09.38.40:439][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.10 sec)
+[2023.04.05-09.38.40:444][913]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.38.40:444][913]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.38.49:051][824]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.38.58:945][896]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.39.14:647][553]LogDerivedDataCache: C:/Users/LouisLiu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.203 and deleted 0 files with total size 0 MiB. Scanned 3210 files in 3198 folders with total size 77 MiB.
+[2023.04.05-09.39.20:486][150]Cmd: TRANSACTION UNDO
+[2023.04.05-09.39.20:486][150]LogEditorTransaction: Undo 移动元素
+[2023.04.05-09.39.26:042][674]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.39.30:145][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.39.33:946][526]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.40.06:390][886]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.40.09:832][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.40.14:559][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.40.14:608][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.40.14:625][715]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.40.14:625][715]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular22214ABE4E19A3DF994D41B5CE66328B.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.40.14:635][715]LogFileHelpers: Saving map 'ArchitectureModular' took 0.044
+[2023.04.05-09.40.14:645][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.19 sec)
+[2023.04.05-09.40.14:648][715]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.40.14:648][715]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.40.21:907][439]Cmd: TRANSACTION UNDO
+[2023.04.05-09.40.21:907][439]LogEditorTransaction: Undo 点击元素
+[2023.04.05-09.40.26:623][931]Cmd: TRANSACTION UNDO
+[2023.04.05-09.40.26:624][931]LogEditorTransaction: Undo 移动元素
+[2023.04.05-09.41.19:179][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.41.19:227][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.04.05-09.41.19:244][540]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.41.19:244][540]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular27E8D269425742B8CE5DD3A0A895272D.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.41.19:253][540]LogFileHelpers: Saving map 'ArchitectureModular' took 0.044
+[2023.04.05-09.41.19:258][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.27 sec)
+[2023.04.05-09.41.19:263][540]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.41.19:263][540]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.41.37:467][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.41.48:450][666]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.42.05:244][406]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.42.21:809][104]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.05-09.42.25:255][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.42.25:304][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.05-09.42.25:320][499]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.42.25:320][499]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular23D6CDA7423BBCEDE24BA59A06424B20.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.42.25:329][499]LogFileHelpers: Saving map 'ArchitectureModular' took 0.044
+[2023.04.05-09.42.25:335][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 7.35 sec)
+[2023.04.05-09.42.25:339][499]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.42.25:339][499]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.42.37:731][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.42.37:783][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.42.37:795][912]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.42.37:796][912]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular64908F44448E1887035B0A81FBC23E1F.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.42.37:804][912]LogFileHelpers: Saving map 'ArchitectureModular' took 0.039
+[2023.04.05-09.42.37:821][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 7.44 sec)
+[2023.04.05-09.42.37:825][912]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.42.37:825][912]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.42.46:209][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.42.46:253][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.42.46:267][898]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.42.46:267][898]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModularA1BB0D1A4D027BACA3130E9A67BD3F8F.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.42.46:277][898]LogFileHelpers: Saving map 'ArchitectureModular' took 0.041
+[2023.04.05-09.42.46:282][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.51 sec)
+[2023.04.05-09.42.46:286][898]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.42.46:286][898]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.43.01:260][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.43.01:310][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.05-09.43.01:322][559]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.43.01:322][559]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular649E3777474E16466C9C92B2DC259C19.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.43.01:333][559]LogFileHelpers: Saving map 'ArchitectureModular' took 0.041
+[2023.04.05-09.43.01:349][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 7.60 sec)
+[2023.04.05-09.43.01:353][559]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.43.01:353][559]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
+[2023.04.05-09.43.14:558][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.05-09.43.14:608][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.04.05-09.43.14:621][ 74]LogSavePackage: Moving output files for package: /Game/ArchitectureModular/ArchitectureModular
+[2023.04.05-09.43.14:621][ 74]LogSavePackage: Moving '../../../../../UnrealProject/APEXLevelTraining/Saved/ArchitectureModular54A2C0514982F96EC769FEA1AE19815D.tmp' to '../../../../../UnrealProject/APEXLevelTraining/Content/ArchitectureModular/ArchitectureModular.umap'
+[2023.04.05-09.43.14:630][ 74]LogFileHelpers: Saving map 'ArchitectureModular' took 0.039
+[2023.04.05-09.43.14:635][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 7.67 sec)
+[2023.04.05-09.43.14:640][ 74]AssetCheck: New page: 资产保存：ArchitectureModular
+[2023.04.05-09.43.14:640][ 74]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/ArchitectureModular/ArchitectureModular.ArchitectureModular
